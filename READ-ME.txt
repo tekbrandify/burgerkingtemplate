@@ -1,0 +1,3 @@
+  =>  Template Name    : Burger King - Food Website Template
+
+  =>  Template was Repurposed from Htmlcodex templates
